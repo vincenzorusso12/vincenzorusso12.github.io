@@ -1,8 +1,6 @@
 # main text of home
 name: Vincenzo Russo
-bio: A Computer Science student @<a href="https://www.unisa.it/">UniSa</a>
-
-
+bio: "A Computer Science student @<a href='https://www.unisa.it' target='_blank'>UniSa</a>"
 # twitter summary info
 #description: A blog about technology and stuff related
 
