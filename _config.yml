@@ -1,6 +1,6 @@
 # main text of home
 name: Vincenzo Russo
-bio: "A Computer Science student @<a href='https://www.unisa.it' target='_blank'>UniSa</a>"
+bio: "M.Sc. Computer Science student @<a href='https://www.unisa.it' target='_blank'>UniSa</a>"
 # twitter summary info
 #description: A blog about technology and stuff related
 
@@ -13,7 +13,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1s6CHKPJd_Uf6zZNAJtz5Fb3ZdmY6RIBg/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1tR4fccSLCIZ-A2d8ZahC_WkTC3-lMspv/view?usp=sharing
 
 url: http://vincenzorusso12.github.io
 # your url: http://USERNAME.github.io
