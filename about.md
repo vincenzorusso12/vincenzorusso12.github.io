@@ -26,5 +26,6 @@ I graduated in December 2019.
 	<li>Linux Bash</li>
 	<li>Unity3D / C#</li>
 	<li>MS Office</li>
+	<li>Adobe Photoshop / InDesign</li>
 </ul>
 
