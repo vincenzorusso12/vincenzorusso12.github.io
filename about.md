@@ -16,7 +16,7 @@ I graduated in December 2019.
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML</li>
+	<li>HTML / CSS</li>
 	<li>Java</li>
 	<li>Android Programming</li>
 	<li>C</li>
