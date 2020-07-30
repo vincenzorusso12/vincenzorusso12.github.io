@@ -13,19 +13,59 @@ I graduated in December 2019.
 
 
 
-<h2>Skills</h2>
+<h2>Skills & Technologies</h2>
 
 <ul class="skill-list">
-	<li>HTML / CSS</li>
-	<li>Java</li>
-	<li>Android Programming</li>
-	<li>C</li>
-	<li>Python</li>
-	<li>R</li>
-	<li>MySQL</li>
-	<li>Linux Bash</li>
-	<li>Unity3D / C#</li>
-	<li>MS Office</li>
-	<li>Adobe Photoshop / InDesign</li>
+	<li><dt>Machine Learning</dt>
+  		<dd>Python  		  </dd>
+		<dd>&emsp;Keras			  </dd>
+		<dd>&emsp;NumPy			  </dd>
+		<dd>R				  </dd>
+		<dd>&emsp;dplyr			  </dd>
+	</li>
+	<br>
+	<li><dt>Web Development</dt>
+  		<dd>Java  </dd>
+		<dd>Tomcat</dd>
+		<dd>HTML  </dd>
+		<dd>CSS   </dd>
+		<dd>jQuery </dd>
+  	</li>
+	<br>
+	<li><dt>Mobile Development</dt>
+  		<dd>Java  		  </dd>
+		<dd>XML			  </dd>
+		<dd>Android Studio</dd>
+  	</li>
+	<br>
+	<li><dt>Operating Systems</dt>
+  		<dd>GNU/Linux  		  </dd>
+		<dd>Bash			  </dd>
+		<dd>C				  </dd>
+		<dd>Windows			  </dd>
+  	</li>
+	<br>
+	<li><dt>Databases</dt>
+  		<dd>MySQL  		  </dd>
+		<dd>MongoDB		  </dd>
+  	</li>
+	<br>
+	<li><dt>Distributed Programming</dt>
+  		<dd>Java Enterprise  		  </dd>
+		<dd>Glassfish 			      </dd>
+		<dd>Enterprise JavaBean       </dd>
+  	</li>
+	<br>
+	<li><dt>Simple Games</dt>
+  		<dd>Unity  		  </dd>
+		<dd>C#			  </dd>
+  	</li>
+	<br>
+	<li><dt>Office & Graphics</dt>
+  		<dd>Microsoft Office</dd>
+		<dd>Adobe Photoshop </dd>
+		<dd>Adobe InDesign  </dd>
+  	</li>
 </ul>
+
 
