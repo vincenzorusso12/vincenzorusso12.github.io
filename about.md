@@ -11,6 +11,8 @@ My field of interests ranges from **programming** to **statistics**, I'd like to
 My thesis concerns the use of **Machine Learning** techniques such as K-means and Fuzzy clustering using the **R** programming language, the data consists of medical records <a href="https://www.ppmi-info.org/">(PPMI)</a>.
 I graduated in December 2019.
 
+Currently I am halfway through my postgrad in Computer Science with specialization in Data Science.
+
 
 
 <h2>Skills &amp; Technologies</h2>
@@ -20,6 +22,7 @@ I graduated in December 2019.
   		<dd>Python  		  </dd>
 		<dd>&emsp;Keras			  </dd>
 		<dd>&emsp;NumPy			  </dd>
+		<dd>&emsp;ML-Agents			  </dd>
 		<dd>R				  </dd>
 		<dd>&emsp;dplyr			  </dd>
 	</li>
@@ -58,11 +61,13 @@ I graduated in December 2019.
 	<br>
 	<li><dt>Simple Games</dt>
   		<dd>Unity  		  </dd>
+		<dd>ML-Agents	  </dd>
 		<dd>C#			  </dd>
   	</li>
 	<br>
 	<li><dt>Office &amp; Graphics</dt>
   		<dd>Microsoft Office</dd>
+		<dd>Microsoft Project</dd>
 		<dd>Adobe Photoshop </dd>
 		<dd>Adobe InDesign  </dd>
   	</li>
