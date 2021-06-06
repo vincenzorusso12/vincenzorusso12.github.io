@@ -15,7 +15,7 @@ description: Hello World
 ## Have you ever heard about it?
 
 Maybe you have seen it somewhere if you try to take those online quizzes about **IQ**.
-You get two sets of images one on the left and one on the right, you have to realize what's the defference between the images on the left and those on the right.
+You get two sets of images one on the left and one on the right, you have to realize what's the difference between the images on the left and those on the right.
 Usually the quizzes miss one image, that the player must choose among a multiple choice list.
 
 ![The problem.](/assets/bongard.png){:class="img-responsive"}
