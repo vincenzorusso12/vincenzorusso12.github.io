@@ -1,7 +1,7 @@
 ---
 title: "The Bongard problem"
 layout: post
-date: 2020-06-06 18:45
+date: 2021-06-06 18:45
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
