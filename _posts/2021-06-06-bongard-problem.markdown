@@ -23,4 +23,4 @@ Usually the quizzes miss one image, that the player must choose among a multiple
 
 Well this problem has a name, it's called [Bongard problem](https://en.wikipedia.org/wiki/Bongard_problem).
 
-So what is the thing that discriminates these sets of pictures? maybe the **shape**?
+So what is the thing that discriminates these sets of pictures? Maybe the **shape**?
